@@ -1,2 +1,2 @@
 city:chennai,
-city2:bangalore
+city2:bangalore2
